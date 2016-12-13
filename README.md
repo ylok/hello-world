@@ -1,12 +1,9 @@
 # hello-world
 https://guides.github.com/activities/hello-world/
-
-first repository 
+https://help.github.com/articles/resolving-a-merge-conflict-on-github/
 
 Hi!
 
 ylok ylok ylok
-
-new
 
 Bye!
